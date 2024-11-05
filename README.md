@@ -7,7 +7,7 @@ This project analyzes multi-year crop data to predict maize yield for 2008, usin
 ## Objective
 The primary goal is to:
 
-### 1. Predict yield for 2008 based on past data.
+### 1. Predict yield for 2008 based on historical data.
 ### 2. Compare model performance using two approaches to understand the added value of genotypic data.
 
 ## Data Source and Description
