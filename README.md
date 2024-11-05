@@ -12,4 +12,5 @@ The primary goal is to:
 
 ## Data Source and Description
 This analysis is based on yield data shared by Bayer Crop Science for the hackathon, encompassing phenotypic, environmental, and genotypic information. Key columns include:
-<p>>year</p>, >loc, >longitude, latitude, line, MST, TWT, YLD_BE, and identifiers such as germplasm_id.
+`year`, `loc`, `longitude`, `latitude`, `line`, `MST`, `TWT`, `YLD_BE`, and identifiers such as `germplasm_id`.
+
