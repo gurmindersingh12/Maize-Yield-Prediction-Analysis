@@ -16,10 +16,10 @@ This analysis is based on yield data shared by Bayer Crop Science for the hackat
 
 ## Project Structure
 The repository contains the following notebooks:
-<p>`01_Data_Preprocessing.ipynb`: Data cleaning and preprocessing.</p>
-<p>`02_EDA.ipynb`: Exploratory Data Analysis.</p>
-<p>`03_Model_Training.ipynb`: Model training and tuning.</p>
-<p>`04_Results_And_Visualizations.ipynb`: Results and visualizations.</p>
+<p> `01_Data_Preprocessing.ipynb`: Data cleaning and preprocessing.</p>
+<p> `02_EDA.ipynb`: Exploratory Data Analysis.</p>
+<p> `03_Model_Training.ipynb`: Model training and tuning.</p>
+<p> `04_Results_And_Visualizations.ipynb`: Results and visualizations.</p>
 
 ## Installation and Dependencies
 To run this project, install the required dependencies with:
