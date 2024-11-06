@@ -14,3 +14,16 @@ The primary goal is to:
 This analysis is based on yield data shared by Bayer Crop Science for the hackathon, encompassing phenotypic, environmental, and genotypic information. Key columns include:
 `year`, `loc`, `longitude`, `latitude`, `line`, `MST`, `TWT`, `YLD_BE`, and identifiers such as `germplasm_id`.
 
+## Project Structure
+#### The repository contains the following notebooks:
+#### `01_Data_Preprocessing.ipynb`: Data cleaning and preprocessing.
+#### `02_EDA.ipynb`: Exploratory Data Analysis.
+#### `03_Model_Training.ipynb`: Model training and tuning.
+#### `04_Results_And_Visualizations.ipynb`: Results and visualizations.
+
+## Installation and Dependencies
+#### To run this project, install the required dependencies with:
+
+```
+pip install pandas numpy scikit-learn matplotlib seaborn
+```
