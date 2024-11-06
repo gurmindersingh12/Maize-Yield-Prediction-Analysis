@@ -15,7 +15,7 @@ This analysis is based on yield data shared by Bayer Crop Science for the hackat
 `year`, `loc`, `longitude`, `latitude`, `line`, `MST`, `TWT`, `YLD_BE`, and identifiers such as `germplasm_id`.
 
 ## Project Structure
-The repository contains the following notebooks:
+The repository contains the following notebooks:</p>
 `01_Data_Preprocessing.ipynb`: Data cleaning and preprocessing.</p>
 `02_EDA.ipynb`: Exploratory Data Analysis.</p>
 `03_Model_Training.ipynb`: Model training and tuning.</p>
